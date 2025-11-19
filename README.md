@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hello, I'm Arad Sheybak
 
-<!--
-**arad-sheybak/arad-sheybak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Android & Full-Stack Developer (Android · Django · React)**
 
-Here are some ideas to get you started:
+I'm a passionate and results-driven developer with over 5 years of experience building scalable mobile, backend, and web applications. I thrive on creating software that bridges the gap between innovative ideas and production-ready solutions, especially in the realms of **Android, IoT, and Backend systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   📍 Based in Gorgan, Iran | Open to Remote Contracts
+-   💼 Looking for: Senior Android / Full-Stack Developer roles
+-   📫 How to reach me: [arad.sheybak@gmail.com](mailto:arad.sheybak@gmail.com)
+-   📄 My Resume: [View PDF]() 
+
+---
+
+## 🚀 Skills & Expertise
+
+### **Mobile Development (Android)**
+`Kotlin` `Jetpack Compose` `XML` `MVVM` `MVI` `Coroutines` `Flow` `Retrofit` `Hilt` `Room` `Navigation` `WorkManager` `Clean Architecture`
+
+### **Backend Development**
+`Django` `Django REST Framework (DRF)` `PostgreSQL` `JWT` `WebSocket` `Django Channels` `Celery`
+
+### **Frontend & Others**
+`React` `HTML` `CSS` `JavaScript` `TailwindCSS`
+
+### **IoT & Connectivity**
+`BLE (Bluetooth Low Energy)` `MQTT` `Eclipse Paho` `Real-time Communication`
+
+---
+
+## 💼 Highlighted Projects
+
+Here are some of the projects I've built:
+
+### [NobParts - Android POS App](link_to_repo_if_any)
+A Point-of-Sale application for Bank Mellat terminals to manage delivery packages and secure payments.
+- **Tech:** Kotlin, MVVM, Coroutines, Retrofit, Hilt, Barcode Scanning, OTP Verification.
+- **Achievement:** Delivered independently in 30 days, integrated directly with POS for automatic payment transfer.
+
+### [Gipa - Restaurant Ordering System](link_to_repo_if_any)
+End-to-end system with Android POS devices and a Django backend.
+- **Tech:** Kotlin, Room, Hilt, Django, DRF, PostgreSQL, WebSockets.
+- **Achievement:** Reduced order registration time to under 10 seconds and eliminated manual errors.
+
+### [HSI - IoT Smart Home App](link_to_repo_if_any)
+An Android app for real-time control of lighting, curtains, and thermostats via MQTT.
+- **Tech:** Kotlin, MQTT (Paho), Coroutines, Real-time sync.
+- **Achievement:** Achieved reliable two-way communication and smooth operation across all controllers.
+
+### [AradFlight - Open Source Flight App](https://github.com/arad-sheybak/AradFlight)
+An open-source Android flight booking app built with modern practices.
+- **Tech:** Jetpack Compose, Clean Architecture, Koin, Moshi.
+- **Features:** Ticket management, offline access.
+
+
+---
+
+## 📈 GitHub Stats & Activity
+
+(You can add your GitHub stats here using services like [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+
+[![Arad's GitHub stats](https://github-readme-stats.vercel.app/api?username=arad-sheybak&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📞 Let's Connect!
+
+-   **Email:** [arad.sheybak@gmail.com](mailto:arad.sheybak@gmail.com)
+-   **LinkedIn:** [linkedin.com/in/arad-sheybak](https://linkedin.com/in/arad-sheybak)
+-   **GitHub:** [github.com/arad-sheybak](https://github.com/arad-sheybak)
+
+---
+
+*This portfolio is constantly evolving as I learn and build new things. Thanks for stopping by! ✨*
