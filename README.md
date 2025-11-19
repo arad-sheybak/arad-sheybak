@@ -50,7 +50,18 @@ An open-source Android flight booking app built with modern practices.
 - **Tech:** Jetpack Compose, Clean Architecture, Koin, Moshi.
 - **Features:** Ticket management, offline access.
 
+### [ISO8583 POS Simulator](https://github.com/arad-sheybak/iso8583-pos-simulator)
+A professional POS simulator for testing and debugging ISO8583 financial transactions with support for multiple acquirers.
+- **Tech:** Kotlin, Jetpack Compose, Clean Architecture, MVVM, Coroutines, Flow, Hilt, ISO8583 Protocol
+- **Features:** Multi-acquirer support, Transaction logging, Real-time response simulation
+- **Status:** Active Development
 
+### [SOLID Principles in Android](https://github.com/arad-sheybak/SOLID_Principles_Android)
+A comprehensive educational project demonstrating SOLID principles implementation in Android development.
+- **Tech:** Kotlin, Clean Architecture, MVVM, Repository Pattern
+- **Features:** Practical examples of each SOLID principle, Best practices for maintainable code
+- **Purpose:** Educational resource for Android developers
+  
 ---
 
 ## 📈 GitHub Stats & Activity
