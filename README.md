@@ -7,8 +7,7 @@ I'm a passionate and results-driven developer with over 5 years of experience bu
 -   📍 Based in Gorgan, Iran | Open to Remote Contracts
 -   💼 Looking for: Senior Android / Full-Stack Developer roles
 -   📫 How to reach me: [arad.sheybak@gmail.com](mailto:arad.sheybak@gmail.com)
--   📄 My Resume: [View PDF]() 
-
+-   📄 My Resume: [View/Download PDF](https://github.com/arad-sheybak/arad-sheybak/raw/main/Arad%20Sheybak%20Resume.pdf)
 ---
 
 ## 🚀 Skills & Expertise
